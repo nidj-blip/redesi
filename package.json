@@ -2,9 +2,10 @@
   "name": "redesi",
   "version": "1.0.0",
   "description": "Sleek agent skills",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "repository": {
     "type": "git",
@@ -18,7 +19,14 @@
   },
   "homepage": "https://github.com/nidj-blip/redesi#readme",
   "dependencies": {
-    "framer-motion": "^13.1.0"
+    "framer-motion": "^13.1.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
   },
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.5",
+    "vite": "^8.2.1"
+  },
+  "type": "module"
 }

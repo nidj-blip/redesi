@@ -1,0 +1,24 @@
+{
+  "name": "redesi",
+  "version": "1.0.0",
+  "description": "Sleek agent skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nidj-blip/redesi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nidj-blip/redesi/issues"
+  },
+  "homepage": "https://github.com/nidj-blip/redesi#readme",
+  "dependencies": {
+    "framer-motion": "^13.1.0"
+  },
+  "private": true
+}

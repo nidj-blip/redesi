@@ -1,0 +1,10 @@
+{
+  "name": "redesi",
+  "version": "1.0.0",
+  "description": "Sleek agent skills",
+  "private": true,
+  "license": "ISC",
+  "dependencies": {
+    "framer-motion": "^13.1.0"
+  }
+}

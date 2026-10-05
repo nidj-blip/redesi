@@ -1,0 +1,30 @@
+{
+  "name": "Josnify.Ai",
+  "description": "Dark-luxury editorial brand for Sacred Frequency, Mia, and Claruna",
+  "version": "1.0.0",
+  "colors": {
+    "primary": "#c9a227",
+    "primaryLight": "#e6c65c",
+    "textDark": "#0b0b14",
+    "textMedium": "#2a2540",
+    "textLight": "#b9b3d1",
+    "bgLight": "#f5f1e8",
+    "bgDark": "#0b0b14",
+    "bgOverlay": "rgba(11, 11, 20, 0.85)",
+    "divider": "#2a2540",
+    "shadow": "rgba(0, 0, 0, 0.4)"
+  },
+  "fonts": {
+    "primary": "\"Cormorant Garamond\", Georgia, serif",
+    "mono": "ui-monospace, SFMono-Regular, Menlo, monospace"
+  },
+  "spacing": { "xs": 8, "sm": 16, "md": 24, "lg": 48, "xl": 80, "xxl": 120 },
+  "borderRadius": { "sm": 7, "md": 12, "lg": 16 },
+  "typography": {
+    "h1": { "size": 88, "weight": 600 },
+    "h2": { "size": 72, "weight": 600 },
+    "h3": { "size": 48, "weight": 500 },
+    "body": { "size": 44, "weight": 400 },
+    "label": { "size": 34, "weight": 500, "letterSpacing": 6 }
+  }
+}
